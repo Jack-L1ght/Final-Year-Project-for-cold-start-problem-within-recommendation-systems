@@ -1,0 +1,30 @@
+Version requirements:
+
+To run the program effectively the python interpreter needs to be version 3.9
+
+
+
+For libraries that are needed they can be found below:
+
+OS and Threading as the core libraries
+
+Pandas and Numpy for data handling
+
+Scikit-Learn for TFIDF vectoriser and normalise
+Suprise for dataset, reader and SVD
+
+Joblit to save and load the models
+
+Tkinter for the Gui
+
+
+Order of which the modules should be ran:
+
+Filtering_Movie_Lens
+Content_Based_recommender
+Baseline_SVD
+Recommendation_Engine
+Hybrid_Recommender
+Gui_app
+
+after each of the modules have been run once they can be re-runed in any order
